@@ -1,0 +1,12 @@
+deployments:
+- author: jhnnsrs
+  command: arkitekt run port
+  created_at: '2023-04-18T16:49:38.956694'
+  definitions: []
+  entrypoint: app
+  identifier: renderfarm
+  image: jhnnsrs/renderfarm:0.0.1
+  requirements: []
+  scopes:
+  - read
+  version: 0.0.1
